@@ -2,7 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+data
+credentials.json
+token.pickle
+*.bak
 # C extensions
 *.so
 
